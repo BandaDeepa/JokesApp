@@ -1,0 +1,33 @@
+.bg-card {
+  align-items: center;
+}
+.cred-card {
+  border-radius: 10px;
+  flex-wrap: wrap;
+}
+.login-card {
+  border-radius: 10px;
+}
+.dummy-head {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: rgb(19, 10, 10);
+  text-align: center;
+}
+.credentials {
+  font-size: 13px;
+  font-family: 'Roboto';
+  color: rgb(102, 82, 82);
+}
+.login {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: rgb(66, 18, 18);
+  text-align: center;
+  font-weight: 600;
+}
+label {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: rgb(39, 39, 39);
+}
